@@ -1,4 +1,4 @@
-# SFDX  App
+# Phoenix Core  App
 
 ## Dev, Build and Test
 
