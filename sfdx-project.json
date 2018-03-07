@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "phx-core",
+      "default": true,
+      "id": "0Ho36000000000fCAA",
+      "versionNumber": "1.4.0.NEXT",
+      "versionName": "Phoenix Core 1.4"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
