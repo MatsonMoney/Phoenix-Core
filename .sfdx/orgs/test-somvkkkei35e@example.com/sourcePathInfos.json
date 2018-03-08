@@ -1,0 +1,2342 @@
+[
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520518100000,
+            "changeTime": 3373865674955,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520518100000,
+            "changeTime": 3373865674955,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520518100000,
+            "changeTime": 3373865674955,
+            "contentHash": "5e1c7833f8328c61917db3fc073fc891ffd7a8d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520460217000,
+            "changeTime": 3373865674955,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520518099000,
+            "changeTime": 3373865674955,
+            "contentHash": "9f3d1beffcf5b604378bb2f7d423c3758dd70c6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\Contacts.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\Contacts.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 337,
+            "modifiedTime": 1520449694000,
+            "changeTime": 3373865674955,
+            "contentHash": "05e38ed5a66812a98b6e8e4934a815c33553ebd8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\Contacts.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\Contacts.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 186,
+            "modifiedTime": 1520449675000,
+            "changeTime": 3373865674955,
+            "contentHash": "eed4bc05bad00d53597d778337d179b1841e3a26",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\ContactsSelector.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\ContactsSelector.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 689,
+            "modifiedTime": 1520449656000,
+            "changeTime": 3373865674955,
+            "contentHash": "7c2f46742c5131f0aa6cf6074ccf48898c07cf36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\ContactsSelector.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\ContactsSelector.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1520449635000,
+            "changeTime": 3373865674955,
+            "contentHash": "4f8f20f5adbb6154828ccbe1483836677b1676d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Answer.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Answer.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 575,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "aabd4d70fd436eaa3c0eebfc12ddf6c93bd0a7cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Answer.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Answer.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnswerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnswerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 16024,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "cd9936b4177aa0597a964f63943fed669f10c5f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnswerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnswerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrder.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3846,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "f4791e68bccda2324c274f9b358ba1e26c37e594",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrder.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrderTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrderTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 36781,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "2f2b570d88a81cc5be1d2a3434bc7cfe533026f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrderTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_AnyOrderTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocks.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocks.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15309,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "a63ae7c71bab812f4d3d1094d6f892fbb13951f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocks.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocks.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksConfig.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksConfig.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 651,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "d93016521044b83297c60800718ae1ef025cc6a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksConfig.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksConfig.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 53726,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "66b40fcf5c6b99d5d1e904cb0981160095fcd656",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtils.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtils.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8175,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "06c7f92d6a0fcc8acd0de3697e9a3c9171b85e41",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtils.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtils.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtilsTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtilsTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3582,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "55791860d7861215b863e66ca8a1434a94dd258b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtilsTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApexMocksUtilsTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Application.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Application.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 16191,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "cc1b49d0ebbceeca2bf6adfb70ab1cf14fffbc43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Application.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Application.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApplicationTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApplicationTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20962,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "8e5fae81d56ea67da5b81e12f8ad1219ff83825a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApplicationTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ApplicationTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptor.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4996,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "08e78d026684767d5ef4bf098aa2ca19abe3b86a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptor.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 26671,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "f8bf854fffe40f5830fec5e417cef190a7b9e2f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptorTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ArgumentCaptorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGenerator.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGenerator.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2153,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "2a1a297b52fdd02319c3b71313356e71b97ee1cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGenerator.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGeneratorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGeneratorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3100,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "dd120b3ffd2130e849536f508845e61c9f4149f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGeneratorTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IDGeneratorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IMatcher.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IMatcher.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2015,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "c1332394472999318ed24beeac85ec6e99f5f2cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IMatcher.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_IMatcher.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Inheritor.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Inheritor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 386,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "bc530d39e3b35f4172163f74a344ea4f8c6d0700",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Inheritor.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Inheritor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InheritorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InheritorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1195,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "1dbbb35ca5a35039e25e0bba927e70ba89810478",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InheritorTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InheritorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrder.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12618,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "804b6abdb1193e3f13ae55269a6190120683b4eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrder.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrderTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrderTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65043,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "4b57c9a83e7e7b8a347e7fe0fae2b335836bdcf7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrderTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InOrderTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InvocationOnMock.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InvocationOnMock.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2514,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "09974f5fc76f27cb8518385596cfa71af4ff75a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InvocationOnMock.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_InvocationOnMock.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectDomain.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectDomain.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "9a7ffa76cfab9c18e1a7eb85a22e31ddd3f446f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectDomain.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectDomain.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectSelector.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectSelector.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 788,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "4d96b23f4ca351119ad3c9b4961c19365e7d7da5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectSelector.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectSelector.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectUnitOfWork.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectUnitOfWork.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4819,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "662562b1d99bd9be24baafc69fc813fa95bb4fa2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectUnitOfWork.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_ISObjectUnitOfWork.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Match.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Match.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56795,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "113b7c4c348b211103e6c2525d25be2f21dda516",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Match.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Match.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitions.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitions.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 38166,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "a024a7e6971fd78fd5f05a2739a5e9177e5fb8da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitions.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitions.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitionsTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitionsTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46170,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "7e9235157b0508e75f7afd644a2416a4fcbf85a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitionsTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatcherDefinitionsTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchersReturnValue.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchersReturnValue.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1936,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "e5d8e10b8b7e5e6e8a3d8cb7abdfa8cc81c0272d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchersReturnValue.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchersReturnValue.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50092,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "aa30881697aa2695729d3603f25cdf2bf21d9cc1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MatchTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValues.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValues.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2841,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "3436fb2c64974a06509a9c442bf490b8cf171786",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValues.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValues.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValuesTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValuesTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5159,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "99286018a0a0367c54a45809cd9362c3a144eac0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValuesTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodArgValuesTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodCountRecorder.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodCountRecorder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1884,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "413ce7cfb6449402eb49c7d4995d2c17f7b9f5cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodCountRecorder.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodCountRecorder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValue.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValue.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6104,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "7d1bd229b7851735c1ac54d778738115f5e2483b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValue.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValue.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValueRecorder.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValueRecorder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4920,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5bb6329dbf5f1f620a426b5d4791bb8689509e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValueRecorder.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodReturnValueRecorder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodVerifier.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodVerifier.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3122,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "600d3a77444ca0973465b2961895d942bb0208b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodVerifier.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MethodVerifier.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Mocks.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Mocks.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2207,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "7860e88ec41dc1388ed649ebbdcfba2d70203e29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Mocks.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_Mocks.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MyList.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MyList.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1434,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "7c7086d8c3b910d9d05545fcf321224a105b0fe4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MyList.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_MyList.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethod.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethod.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2369,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "a7036b44d76173f5e1dd916275ba2a2c968a5848",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethod.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethod.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodAndArgValues.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodAndArgValues.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 901,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "7748f498d8ca8f9bf4959b1fd6d3ff25c725ea61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodAndArgValues.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodAndArgValues.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6845,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa4dae98e0aa08237ac463ff4c88a1e94b2daa49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QualifiedMethodTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactory.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactory.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33613,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "0e5327af07367c65c922ec63e9ac4b86b941867d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactory.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactory.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactoryTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactoryTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 34263,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "667c7561a242c6a75b77cedbb3b7b37daf1239cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactoryTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_QueryFactoryTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtils.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtils.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15432,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "e5d31ba8fd864888d73e709b215dfb2363123be7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtils.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtils.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtilsTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtilsTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 11870,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "ef3af89c151878b31ccfd404fe7ce58587fa0ccb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtilsTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SecurityUtilsTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribe.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribe.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14853,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "a868d661d49dacf9aff522444346723aec3f7c78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribe.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribe.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribeTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribeTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9440,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "f5ec632e9d17b0f8ecc9ba43381e4bd19335c5ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribeTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDescribeTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomain.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomain.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 38324,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "116b2a53491f79d87ad29591cb93e5f42690bdac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomain.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomain.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomainTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomainTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20574,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "777ec66d59563ac534f70af484439bcc95601873",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomainTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectDomainTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectMocks.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectMocks.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4558,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "2ba94cd19faad5179501349305e72317d00c16ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectMocks.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectMocks.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442283000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelector.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelector.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 17391,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "24c649f05507d65dcbe93e252be71110b8ff1f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelector.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelector.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelectorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelectorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12854,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "4fd4a46d744246ba9d2efb44fca9706eb2897a79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelectorTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectSelectorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWork.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWork.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 18931,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "d27ab16b9c6eda134270a89f168d3a4dbc1f3f38",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWork.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWork.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWorkTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWorkTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20046,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "3a16ed57cc41b984593c627a188734e8c4e33856",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWorkTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SObjectUnitOfWorkTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilder.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5544,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "453e96f41b063469580dce26dafabac1f1458177",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilder.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilderTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilderTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5990,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "607d1a603031dd2b71625ed6c801f6f8229a9ada",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilderTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_StringBuilderTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520442284000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_System.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_System.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2078,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "a9a0aa10170cb948c9e6360a10930c63c7dd282b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_System.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_System.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SystemTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SystemTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4899,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "e363d447e1fbd8a30e307b04d323f7c8e3aa5c59",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SystemTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_SystemTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_VerificationMode.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_VerificationMode.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5341,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "53f283cab3dde354265f52319e7bc532b2baa405",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_VerificationMode.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\fflib_VerificationMode.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520440266000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\IContactsSelector.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\IContactsSelector.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 116,
+            "modifiedTime": 1520449617000,
+            "changeTime": 3373865674955,
+            "contentHash": "2eae15eb34544fd257489e66b0c39040807c7d93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\IContactsSelector.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\IContactsSelector.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1520449607000,
+            "changeTime": 3373865674955,
+            "contentHash": "61ba4e95c56ccc23837ab747c1234ec0ede1d33f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixCore.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixCore.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1007,
+            "modifiedTime": 1520449797000,
+            "changeTime": 3373865674955,
+            "contentHash": "333d128bcf023021f92504c21eb3e2a502e6882b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixCore.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixCore.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1520449738000,
+            "changeTime": 3373865674955,
+            "contentHash": "79717bb101bfce931a5b8b88004b426bb02f7496",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixDomain.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixDomain.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 153,
+            "modifiedTime": 1520449529000,
+            "changeTime": 3373865674955,
+            "contentHash": "73021f6523ea929635d7f962d0510c05d62a51e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixDomain.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\PhoenixDomain.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1520449458000,
+            "changeTime": 3373865674955,
+            "contentHash": "aa61dd06c0804f1ddc25ca21a6c3e3abbf0fe256",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNode.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNode.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 876,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "388efd3fa8a413220387cd133ad883b4359635f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNode.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNode.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNodeTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNodeTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2508,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "769c25bea834679486344e3ef550a6b795ed22a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNodeTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ChildRelationshipNodeTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObject.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObject.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1684,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa76a6d1ea5a8af162d56eb7ee4e8a15937a3c34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObject.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObject.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNode.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNode.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 84,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "01a7ee06055d02e6f506d628cb8cecbda7925d52",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNode.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNode.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNodeStub.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNodeStub.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 532,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "9fd3cb5f0eff5b53f17d8507134a1551b097c873",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNodeStub.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectNodeStub.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectStub.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectStub.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 601,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "daf9d82d3807df976dbf98bb85fdeae696578527",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectStub.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectStub.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2648,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "d7d3a4b7f24f70541cb0b6f8c99316f8375bf2f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FabricatedSObjectTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNode.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNode.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 423,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "1a97126df8cce57b2e359c71d7551abdf3e647b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNode.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNode.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNodeTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNodeTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 348,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "c7c96c76abf90cc81e6af1bb10bb1a9edeb7fcc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNodeTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_FieldValuePairNodeTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNode.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNode.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 446,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "29d31ddf4b2167488f38258e6891f11ef0a0f310",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNode.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNode.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNodeTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNodeTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 942,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "4cadfe4e5e6c931b774d6a9e1c633cf7584c6e34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNodeTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\classes\\sfab_ParentRelationshipNodeTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520435839000,
+            "changeTime": 3373865674955,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\labels",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\labels",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520518100000,
+            "changeTime": 3373865674955,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore\\phx-core\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4206,
+            "modifiedTime": 1520441977000,
+            "changeTime": 3373865674955,
+            "contentHash": "fe4269bcda6e9472b2927c3fcdd3bc6b267b8ce0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\brian.broughton\\Box\\Brian Broughton\\Dev Projects\\VSCode Projects\\PhoenixCore",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520519077000,
+            "changeTime": 3373865674955,
+            "contentHash": "83aafbac9e303a4816c6dfbf7226e2105d8c99b7",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
